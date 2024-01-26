@@ -1,0 +1,6 @@
+C:\C#4\QLBanHang\BUS_BanHang\bin\Debug\BUS_BanHang.dll
+C:\C#4\QLBanHang\BUS_BanHang\bin\Debug\BUS_BanHang.pdb
+C:\C#4\QLBanHang\BUS_BanHang\obj\Debug\BUS_BanHang.csproj.AssemblyReference.cache
+C:\C#4\QLBanHang\BUS_BanHang\obj\Debug\BUS_BanHang.csproj.CoreCompileInputs.cache
+C:\C#4\QLBanHang\BUS_BanHang\obj\Debug\BUS_BanHang.dll
+C:\C#4\QLBanHang\BUS_BanHang\obj\Debug\BUS_BanHang.pdb
